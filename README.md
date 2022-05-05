@@ -22,6 +22,7 @@ This project has features such as
 - Section for accomplishments
 - Aesthetic site
 ## Screenshots
+![This is an image](https://github.com/azinselmeier/Portfolio/PortfolioScreenshot.png)
 ## Setup
 ## Project Status
 Project is: in progress. As the project is a personal portfolio, this project will stay in progress as I continue to update it as developments occur in my life.
