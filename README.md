@@ -1,4 +1,4 @@
-# Anna Zinselmeier Portfolio
+# Anna Zinselmeier Online Portfolio
 In this project, I created an online portfolio on a personalized domain.
 ## Table of Contents
 - General Information
