@@ -1,26 +1,26 @@
 # Anna Zinselmeier Portfolio
 In this project, I created an online portfolio on a personalized domain.
 ## Table of Contents
-*General Information
-*Technology Used
-*Features
-*Screenshots
-*Setup
-*Project Status
-*Room for Improvement
-*Acknowledgements
-*Contact Information
+- General Information
+- Technology Used
+- Features
+- Screenshots
+- Setup
+- Project Status
+- Room for Improvement
+- Acknowledgements
+- Contact Information
 ## General Information
 This project was created for a course at the University of Iowa. The purpose of the project was to create an online presence for students utilizing our technical abilities.
 ## Technology Used
-*GitHub
-*Microsoft Azure
-*Visual Studio Code
+- GitHub
+- Microsoft Azure
+- Visual Studio Code
 ## Features
 This project has features such as 
-*Image of user on profile
-*Section for accomplishments
-*Aesthetic site
+- Image of user on profile
+- Section for accomplishments
+- Aesthetic site
 ## Screenshots
 ## Setup
 ## Project Status
